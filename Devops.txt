@@ -1,4 +1,0 @@
-Ansible
-Docker
-Python
-mave
