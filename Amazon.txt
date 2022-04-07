@@ -4,3 +4,5 @@ prime
 ohio
 london
 mumbai
+singapore
+ireland
