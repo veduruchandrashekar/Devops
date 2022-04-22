@@ -1,4 +1,4 @@
-AWS
-Azure
-GCP
-Oracle
+AWS - Amazon
+Azure- Microsoft
+GCP- Google
+Oracle- Oracle
