@@ -1,3 +1,6 @@
 S3
 VPC
 EC2
+IAM
+ASG
+LB
