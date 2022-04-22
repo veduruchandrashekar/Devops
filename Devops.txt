@@ -1,6 +1,0 @@
-Git
-Maven
-Ansible
-Docker  
-Ansible
-Jenkins
