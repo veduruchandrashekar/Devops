@@ -1,4 +1,0 @@
-Java- Java
-Python- Python
-Oracle- Oracle
-Dot Net- Dot Net
