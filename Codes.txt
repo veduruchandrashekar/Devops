@@ -1,4 +1,4 @@
-Java
-Python
-Oracle
-Dot Net
+Java- Java
+Python- Python
+Oracle- Oracle
+Dot Net- Dot Net
