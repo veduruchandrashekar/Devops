@@ -1,0 +1,4 @@
+AWS
+Azure
+GCP
+Oracle
