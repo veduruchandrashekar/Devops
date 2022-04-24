@@ -1,9 +1,0 @@
-VPC
-IAM
-route53
-S3
-LB
-ASG
-ALB
-NLB
-CLB
