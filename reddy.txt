@@ -2,3 +2,4 @@ git
 Jenkins
 Ansible
 Docker
+Maven
