@@ -1,9 +1,0 @@
-git
-Jenkins
-Ansible
-Docker
-Maven
-Nginix
-Kubernetes
-CI/CD
-Slack

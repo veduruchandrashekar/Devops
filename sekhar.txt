@@ -1,8 +1,0 @@
-Azure
-AWS
-Google
-SAP
-Oracle
-Dotnet
-Java
-python
