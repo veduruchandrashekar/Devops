@@ -4,4 +4,3 @@ route53
 S3
 LB
 ASG
-EC2
