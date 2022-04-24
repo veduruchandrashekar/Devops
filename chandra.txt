@@ -6,4 +6,3 @@ LB
 ASG
 ALB
 NLB
-CLB
