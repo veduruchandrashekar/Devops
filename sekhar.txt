@@ -4,3 +4,5 @@ Google
 SAP
 Oracle
 Dotnet
+Infosys
+Microsoft
