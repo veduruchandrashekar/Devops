@@ -1,3 +1,4 @@
 VPC
 IAM
 route53
+S3
