@@ -6,3 +6,4 @@ Maven
 Nginix
 Kubernetes
 CI/CD
+Slack
