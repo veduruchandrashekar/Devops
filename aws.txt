@@ -2,3 +2,4 @@ ec2
 VPC
 S3
 EBS
+EFS
