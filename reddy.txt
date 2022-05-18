@@ -1,5 +1,6 @@
 Git
 Maven
+Nexus
 Jenkins
 Docker
 Ansible
