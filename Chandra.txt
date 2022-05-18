@@ -1,7 +1,2 @@
 AWS
 Azure
-GCP
-SAP
-Oracle
-Dotnet
-Python
