@@ -2,3 +2,4 @@ AWS
 Azure
 GCP
 SAP
+Oracle
