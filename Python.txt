@@ -1,0 +1,3 @@
+Python is a very flexible language
+Python is easily to learn
+Python is user friendly language
